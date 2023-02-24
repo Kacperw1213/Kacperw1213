@@ -1,17 +1,14 @@
-### Hi there 👋 My name is Kacper.
+### Hi there 👋 My name is Kacper and I am an aspiring QA specialist.
 
-Welcome to my Github profile :)
-
-### 👀 About me:
+- 🌱 I am currently extending knowledge about testing and learning SQL/Python.
+### 👀 [About me](https://github.com/Kacperw1213/About-me)
 
 ### Portfolio:
 - Manual testing of Mr Buggy 7 -
 
-### Blogs/Social:
-
-📫 Do not hesitate to contact with me:
-- Linkedin
-- kacperwos1996@gmail.com
+📮 Do not hesitate to contact me:
+- 📫 [Linkedin](https://www.linkedin.com/in/kacper-woś/)
+- 📧 kacperwos1996@gmail.com
 
 <!--
 **Kacperw1213/Kacperw1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
