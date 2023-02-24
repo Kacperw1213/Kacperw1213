@@ -4,17 +4,17 @@
 I am motivated, hardworking and communicative person who wants to change his life and start working in IT industry.
 The most of my time I spend on extending testing skills and learning about SQL/Python.
 
-Portfolio:
+### Portfolio:
 - Manual testing of Mr Buggy 7 -
 
-Courses:
+### Courses:
 - Learn CSS Course - Issued Feb 2023
 - Learn HTML Course - Issued Jan 2023
 - ISTQB Foundation Level - Issued Oct 2022
 - ACERT B2 - Business English - Issued Jun 2019
 - Kurs języka Angielskiego B2 - Issued May 2015
 
-Tools:
+### Tools:
 - Testlink/qTest - test scarnarios&cases managment
 - Jira - incidient management
 - Git - control version
@@ -23,7 +23,7 @@ Tools:
 - SAP ERP
 - Knowledge of quality tools: Ishikawa, 5Why, Pareto-Lorenz, FlowChart, FMEA
 
-Tech Skills:
+### Tech Skills:
 - Writing test scenarios and test cases
 - Bug reporting
 - API testing
@@ -31,12 +31,12 @@ Tech Skills:
 - MySQL
 - B2 English
 
-Crowdtesting:
+### Crowdtesting:
 - test IO & uTest - web, mobile testing. Focus on functional bugs, sometimes content and visual bugs. Bug reporting according to customer requires with collecting logs, video, screenshots. Bug reproduction at the customer request.
 
-Books:
+### Books:
 
-Blogs/Social:
+### Blogs/Social:
 
 📫 Do not hesitate to contact with me:
 - Linkedin
