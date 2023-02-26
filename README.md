@@ -5,8 +5,8 @@ To extend knowledge I've started "Szkolenie dla QA" course with focus on quality
 To learn something new, I've started Python course, to have a chance in the future to combine it with testing.
 ### 👀 [About me](https://github.com/Kacperw1213/About-me)
 
-### Portfolio:
-- Manual testing of Mr Buggy 7 -
+### 📋 Portfolio:
+- 📄 [Project - Mr Buggy7](https://github.com/Kacperw1213/MyBuggy7) - Manual testing of Mr Buggy7 app
 
 📮 Do not hesitate to contact me:
 - 📫 [Linkedin](https://www.linkedin.com/in/kacper-woś/)
