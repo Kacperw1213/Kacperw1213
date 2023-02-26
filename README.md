@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Kacper and I am an aspiring QA specialist.
 
-- 🌱 I am currently extending knowledge about testing and learning SQL/Python.
+🌱 I am currently extending knowledge about testing and learning Python.
+To extend knowledge I've started "Szkolenie dla QA" course with focus on quality assurance matter.
+To learn something new, I've started Python course, to have a chance in the future to combine it with testing.
 ### 👀 [About me](https://github.com/Kacperw1213/About-me)
 
 ### Portfolio:
