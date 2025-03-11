@@ -1,11 +1,11 @@
-### Hi there 👋 My name is Kacper and I am an aspiring QA specialist.
+### Hi there 👋 My name is Kacper and I am an QA specialist!
 
-🌱 I am currently extending knowledge about testing and learning Python.
-To extend knowledge I've started "Szkolenie dla QA" course with focus on quality assurance matter.
-To learn something new, I've started Python course, to have a chance in the future to combine it with testing.
+🌱 I am an experienced Test Engineer with a strong background in both manual and automated testing, specializing in UI, API testing, and accessibility. 
+With expertise in AWS, NFTs, and test automation, I focus on ensuring applications are efficient, functional, and accessible for all users. 
 ### 👀 [About me](https://github.com/Kacperw1213/About-me)
 
 ### 📋 Portfolio:
+- 📄 Test automation in Playwright/TypeScript. UI Tests for Login, Navigation, Doing the Financial transfer.
 - 📄 [Project - Mr Buggy7](https://github.com/Kacperw1213/MyBuggy7) - Manual testing of Mr Buggy7 app
 
 📮 Do not hesitate to contact me:
