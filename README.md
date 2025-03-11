@@ -5,7 +5,7 @@ With expertise in AWS, NFTs, and test automation, I focus on ensuring applicatio
 ### 👀 [About me](https://github.com/Kacperw1213/About-me)
 
 ### 📋 Portfolio:
-- 📄 Test automation in Playwright/TypeScript. UI Tests for Login, Navigation, Doing the Financial transfer.
+- 📄 [Project - Test automation DemoBank](https://github.com/Kacperw1213/Test-automation---Demobank) - Test automation in Playwright/TypeScript. UI Tests for Login, Navigation, Doing the Financial transfer.
 - 📄 [Project - Mr Buggy7](https://github.com/Kacperw1213/MyBuggy7) - Manual testing of Mr Buggy7 app
 
 📮 Do not hesitate to contact me:
